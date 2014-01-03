@@ -2,7 +2,7 @@
 <addon id="script.module.six"
        name="six"
        version="1.4.1"
-       provider-name="https://bitbucket.org/gutworth/six">
+       provider-name="gutworth">
   <requires>
     <import addon="xbmc.python" 
     		version="2.1.0"/>
